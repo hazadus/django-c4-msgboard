@@ -2,7 +2,8 @@
 Tutorial app from ['Django for Beginners' WSV's book](https://learndjango.com/books/).
 
 ## Features
-- Class-based views.
+- Class-based view `ListView`.
+- SQLite database.
 - Tests.
 
 ## Starting app
